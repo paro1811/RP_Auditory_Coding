@@ -1,0 +1,13 @@
+Dictionary Evaluated: ResultsTIMIT_Baseline_256/epoch_4.jld2
+Stopping Condition:   0.1
+Total Files Processed:1680
+Frame Length:         370
+Hop Length:           185
+--------------------------------------------------
+Median Population Activity (Σ|s|): 1047.67
+10% Pruning Threshold:             104.77
+--------------------------------------------------
+Active Kernels (Passed the 10% threshold): 256
+Pruned Kernels (Failed the 10% threshold): 0
+--------------------------------------------------
+True Biological Dictionary Health: 100.0% successfully learned

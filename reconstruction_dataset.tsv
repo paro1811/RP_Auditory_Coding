@@ -1,0 +1,9 @@
+path_wav	segments
+/Users/pbadiger/Downloads/TIMIT16kHz/TEST/DR1/FJEM0/SX4.WAV	"[{""start"": 2040, ""end"": 46220}]"
+/Users/pbadiger/Downloads/TIMIT16kHz/TEST/DR2/MCEM0/SX228.WAV	"[{""start"": 2046, ""end"": 28187}]"
+/Users/pbadiger/Downloads/TIMIT16kHz/TEST/DR3/FPKT0/SX98.WAV	"[{""start"": 2260, ""end"": 26680}]"
+/Users/pbadiger/Downloads/TIMIT16kHz/TEST/DR4/MLLL0/SX13.WAV	"[{""start"": 2280, ""end"": 31257}]"
+/Users/pbadiger/Downloads/TIMIT16kHz/TEST/DR5/FNLP0/SX138.WAV	"[{""start"": 8860, ""end"": 56679}]"
+/Users/pbadiger/Downloads/TIMIT16kHz/TEST/DR6/MESD0/SX372.WAV	"[{""start"": 2810, ""end"": 44690}]"
+/Users/pbadiger/Downloads/TIMIT16kHz/TEST/DR7/FTLH0/SX109.WAV	"[{""start"": 2200, ""end"": 51275}]"
+/Users/pbadiger/Downloads/TIMIT16kHz/TEST/DR8/MSLB0/SX293.WAV	"[{""start"": 2040, ""end"": 43989}]"

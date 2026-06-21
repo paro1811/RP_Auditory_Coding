@@ -1,0 +1,13 @@
+Dictionary Evaluated: ResultsTIMIT_Optimized_Ng64_dropout_only/epoch_6.jld2
+Stopping Condition:   0.1
+Total Files Processed:1680
+Frame Length:         372
+Hop Length:           186
+--------------------------------------------------
+Median Population Activity (Σ|s|): 22651.94
+10% Pruning Threshold:             2265.19
+--------------------------------------------------
+Active Kernels (Passed the 10% threshold): 64
+Pruned Kernels (Failed the 10% threshold): 0
+--------------------------------------------------
+True Biological Dictionary Health: 100.0% successfully learned
