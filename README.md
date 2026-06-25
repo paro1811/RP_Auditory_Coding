@@ -62,13 +62,6 @@ All scripts for generating paper figures and computing evaluation metrics are in
 | `ResultsTIMIT_Hybrid_*` | Hybrid 256-kernel experiment |
 | `result_plots/` | All generated figures used in the paper |
 
-### Other
-
-| File / Folder | Description |
-|---|---|
-| `jupyter-notebook/` | Getting started notebook for matching pursuit |
-| `CarneyEarlabRevcorData/` | Cat auditory nerve revcor filter dataset (Carney Lab) |
-| `tests/` | Test scripts (may be outdated) |
 
 ## Setup
 
